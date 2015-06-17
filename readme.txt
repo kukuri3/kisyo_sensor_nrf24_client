@@ -1,0 +1,5 @@
+kisyo_sensor client.
+ATMEGA328をarduinoにしたものと
+sht11　温度湿度センサと、気圧センサMPL115A2を使ったセンサ。
+kisyo_sensor serverからnRF24を介してtが送られてくると、
+測定値を返す。
